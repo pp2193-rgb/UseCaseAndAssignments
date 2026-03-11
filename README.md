@@ -1,2 +1,2 @@
-# HelloApp
-Hello App – Simple Java Hello World Application for Learning Git and GitFlow
+#Use case and assignments
+All the usercases and assignmnets are over here
